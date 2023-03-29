@@ -1,1 +1,1 @@
-Exercicios resolvidos do curso "C# COMPLETO Programação Orientada a Objetos + Projetos" do Prof. Nelio Alves
+Exercicios e projetos para aprender C#.
